@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<div>dev3</div>
+<div>dev3 is good by master</div>
 
 </body>
 </html>
